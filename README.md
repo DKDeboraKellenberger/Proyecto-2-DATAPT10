@@ -1,4 +1,3 @@
- ![alt text](<Images\Telecomunicaciones.jpeg>)
 <p align="center">
   <img src="Images\Telecomunicaciones.jpeg" alt="Telecomunicaciones">
 </p>
@@ -6,7 +5,6 @@
 <div style="text-align: center;">
   <h1>Proyecto-2-DATAPT10</h1>
 </div>
-# Proyecto-2-DATAPT10
 
 <p align="center">
   <h2>Telecomunicaciones</h2>

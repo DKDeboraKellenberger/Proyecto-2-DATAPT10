@@ -18,7 +18,7 @@ El análisis está enfocado a proporcionar información detallada del comportami
 
 El objetivo es presentar las conclusiones de mi trabajo a una empresa de telecomunicaciones exponiendo los comportamientos de los usuarios en el territorio argentino en la última década, tanto actual como en la linea de tiempo, de diferentes tecnologías de conexion y velocidades, demostrando esto tendencias, posibles baches, nichos y consideraciones a tener en cuenta para futuras inversiones en intraestructura. Tambien se analizan variables dirigidas a dar un pantallazo de los ingresos economicos, con objetivos planteados a un futuro.
 
-El proceso comenzó con la descarga de los datos proporcionados, provenientes de la pagina web del ENACOM ([link](https://indicadores.enacom.gob.ar/datos-abiertos)), su posterior transformación y carga correspondiente (ETL).
+El proceso comenzó con la descarga de los datos proporcionados, provenientes de la pagina web del ENACOM [link](https://indicadores.enacom.gob.ar/datos-abiertos), su posterior transformación y carga correspondiente (ETL).
 Se realizó un Análisis Exploratorio de los Datos (EDA) para nutrirme de los mísmos, con gráficos acordes para una interpretación profunda.
 
 Con una correcta interpretación de los datos se intentará primeramengte contextualizar el comportamiento de la industria. Una vez entendido el entorno, tomar las decisiones adecuadas para la empresa, reflejandose las mismas en  objetivos claros y la mejora en la calidad del servicio. 
@@ -113,7 +113,7 @@ Mbps es una unidad de medida que indica la velocidad de transferencia de datos. 
 Muy Alta Velocidad (más de 100 Mbps): Recomendable para aplicaciones que requieren gran ancho de banda, como streaming en 4K, juegos en línea sin latencia y trabajo remoto con grandes transferencias de archivos. (no entran en este análisis, pero es bueno explicarlo para un mejor conexto general)*
 
 # Fuente de datos
-[link](https://indicadores.enacom.gob.ar/datos-abiertos) Datasets principales, que recoge datos del ENACOM
+[link](https://indicadores.enacom.gob.ar/datos-abiertos) - Datasets principales, que recoge datos del ENACOM
 # Autor
 Débora L. Ferrucci Kellenberger
 
